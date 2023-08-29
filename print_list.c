@@ -2,11 +2,11 @@
 #include "sort.h"
 
 /**
-* displayList - Prints a list of integers
+* print_list - Prints a list of integers
 *
 * @list: The list to be printed
 */
-void displayList(const listint_t *list)
+void print_list(const listint_t *list)
 {
 int i;
 
